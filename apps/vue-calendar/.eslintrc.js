@@ -22,5 +22,8 @@ module.exports = {
   ignorePatterns: ['**/*.d.ts'],
   rules: {
     'vue/require-default-prop': 0,
+    "prettier/prettier": ["error",{
+      "endOfLine": "auto"}
+    ],
   },
 };

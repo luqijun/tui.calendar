@@ -8,7 +8,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const InjectPlugin = require('webpack-inject-plugin')['default'];
 
 const banner = [
-  'TOAST UI Calendar 2nd Edition',
+  'Customized TOAST UI Calendar 2nd Edition by lqjun',
   `@version ${pkg.version} | ${new Date().toDateString()}`,
   `@author ${pkg.author}`,
   `@license ${pkg.license}`,
