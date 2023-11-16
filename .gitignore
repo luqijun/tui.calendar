@@ -61,6 +61,5 @@ karma.conf.local.js
 .tern-port
 *.vim
 .\#*
-.vscode/
 test-results/
 stats.json
