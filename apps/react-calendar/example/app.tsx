@@ -1,8 +1,8 @@
 /* eslint-disable no-console */
 import './app.css';
 
-import type { EventObject, ExternalEventTypes, Options } from '@toast-ui/calendar';
-import { TZDate } from '@toast-ui/calendar';
+import type { EventObject, ExternalEventTypes, Options } from '@lqjun/calendar';
+import { TZDate } from '@lqjun/calendar';
 import type { ChangeEvent, MouseEvent } from 'react';
 import { useCallback, useEffect, useRef, useState } from 'react';
 

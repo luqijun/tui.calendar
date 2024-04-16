@@ -1,5 +1,5 @@
 import { expect } from '@playwright/test';
-import { LocalDate, MomentDate, UTCDate } from '@toast-ui/date';
+import { LocalDate, MomentDate, UTCDate } from '@lqjun/date';
 import { advanceTo } from 'jest-date-mock';
 import moment from 'moment-timezone';
 import type { TimeZone } from 'timezone-mock';

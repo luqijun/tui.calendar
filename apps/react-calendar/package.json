@@ -1,6 +1,6 @@
 {
   "name": "@lqjun/react-calendar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Customized TOAST UI Calendar for React",
   "author": "lqjun <1120948897@qq.com>",
@@ -37,7 +37,7 @@
     "nhn",
     "toast",
     "toastui",
-    "toast-ui",
+    "lqjun",
     "calendar",
     "fullcalendar",
     "daily",
@@ -57,7 +57,7 @@
     "build:types": "rimraf types/ && tsc -p ./tsconfig.declaration.json"
   },
   "dependencies": {
-    "@lqjun/calendar": "^1.0.0"
+    "@lqjun/calendar": "^1.0.1"
   },
   "devDependencies": {
     "@types/react": "^17.0.2",

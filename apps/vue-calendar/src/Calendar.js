@@ -1,5 +1,5 @@
 /* eslint-disable no-undefined */
-import Calendar from '@toast-ui/calendar';
+import Calendar from '@lqjun/calendar';
 import Vue from 'vue';
 
 export default Vue.component('ToastUICalendar', {
